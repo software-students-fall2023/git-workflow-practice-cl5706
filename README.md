@@ -1,5 +1,5 @@
 # Git Practice
-Chang Liu
+Chang Liu Sep.17th
 ## Interesting Article
 "What is the Future of Software Engineering [2023 and Beyond]"
 https://www.knowledgehut.com/blog/web-development/software-engineer-future#what-is-the%C2%A0future-of%C2%A0software%C2%A0engineers?
